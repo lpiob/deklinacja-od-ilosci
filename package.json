@@ -1,0 +1,19 @@
+{
+  "name": "deklinacja-od-ilosci",
+  "version": "0.1.0",
+  "description": "Deklinacja rzeczownikow w zaleznosci od ilosci",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.unity.pl:lbiegaj/deklinacja-od-ilosci.git"
+  },
+  "keywords": [
+    "deklinacja",
+    "rzeczownik"
+  ],
+  "author": "Lukasz Biegaj <lukasz.biegaj@unitygroup.com>",
+  "license": "MIT"
+}
