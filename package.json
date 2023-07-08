@@ -1,7 +1,11 @@
 {
   "name": "deklinacja-od-ilosci",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Deklinacja rzeczownikow w zaleznosci od ilosci",
+  "homepage": "https://github.com/lpiob/deklinacja-od-ilosci",
+  "bugs": {
+    "url": "https://github.com/lpiob/deklinacja-od-ilosci/issues"
+  },
   "main": "index.js",
   "scripts": {
     "test": "node test/script.js"
